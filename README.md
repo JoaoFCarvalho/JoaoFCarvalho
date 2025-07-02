@@ -1,7 +1,8 @@
 # Olá! Eu sou o João Felipe Carvalho
 
-Bacharel de Ciência da Computação
-Desenvolvedor júnior com foco em back-end, automações e integração de sistemas  
+🎓 Bacharel de Ciência da Computação
+🔧 Desenvolvedor júnior com foco em back-end, automações e integração de sistemas  
+🚀 Explorando arquitetura de software e criação de soluções escaláveis e seguras  
 
 ## Interesses
 
@@ -10,7 +11,7 @@ Desenvolvedor júnior com foco em back-end, automações e integração de siste
 - Arquitetura de aplicações
 - Integração de sistemas e APIs
 - Segurança e infraestrutura como base para software robusto
-- 
+
 ## Linguagens
 
 <p align="left">
@@ -25,7 +26,7 @@ Desenvolvedor júnior com foco em back-end, automações e integração de siste
 
 ## Contato
 
-- [LinkedIn](https://www.linkedin.com/in/joao-felipe-carvalho-93aa29211/)
-- joaofvc946@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/joao-felipe-carvalho-93aa29211/)
+- 📧 joaofvc946@gmail.com
 
 

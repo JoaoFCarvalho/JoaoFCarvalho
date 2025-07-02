@@ -1,4 +1,4 @@
-# Olá! Eu sou o João Felipe Vieira Carvalho
+# Olá! Eu sou o João Felipe Carvalho
 
 Bacharel de Ciência da Computação
 Desenvolvedor júnior com foco em back-end, automações e integração de sistemas  

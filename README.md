@@ -11,7 +11,7 @@ Desenvolvedor júnior com foco em back-end, automações e integração de siste
 - Integração de sistemas e APIs
 - Segurança e infraestrutura como base para software robusto
 - 
-##Linguagens
+## Linguagens
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />

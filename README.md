@@ -10,11 +10,8 @@ Desenvolvedor júnior com foco em back-end, automações e integração de siste
 - Arquitetura de aplicações
 - Integração de sistemas e APIs
 - Segurança e infraestrutura como base para software robusto
-
-## Contato
-
-- [LinkedIn](https://www.linkedin.com/in/joao-felipe-carvalho-93aa29211/)
-- joaofvc946@gmail.com
+- 
+##Linguagens
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
@@ -25,3 +22,10 @@ Desenvolvedor júnior com foco em back-end, automações e integração de siste
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
 </p>
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/joao-felipe-carvalho-93aa29211/)
+- joaofvc946@gmail.com
+
+

@@ -1,5 +1,3 @@
-# joaofelipecarvalho
-
 # Olá! Eu sou o João Felipe Vieira Carvalho
 
 Bacharel de Ciência da Computação

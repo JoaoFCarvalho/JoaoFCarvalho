@@ -1,7 +1,6 @@
 # Olá! Eu sou o João Felipe Carvalho
 
-🎓 Bacharel de Ciência da Computação
-
+🎓 Bacharel de Ciência da Computação             
 🔧 Desenvolvedor júnior com foco em back-end, automações e integração de sistemas  
 🚀 Explorando arquitetura de software e criação de soluções escaláveis e seguras  
 
